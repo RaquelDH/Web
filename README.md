@@ -8,3 +8,4 @@
 6. **Administración de sistemas Linux** (100 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
 7. **Administración de sistemas informáticos** (100 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
 8. **Desarrollo de Apps Móviles** (40 h) - Universidad Complutense de Madrid
+9. **Diseño gráfico con suite Adobe** (80 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
