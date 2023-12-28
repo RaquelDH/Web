@@ -1,4 +1,4 @@
-### 2022-2024: Formación Software Engineer & System administrator (más de 1200 horas)
+### 2022-2024: Formación en Software Engineer & System administrator (más de 1200 horas)
 
 1. **Creación, programación y diseño de páginas web con HTML5 y CSS3** (210 h) - Smartmind Centro de Formación
 2. **Java** (60 h) - Grupo Aspasia Formación y Consultoría
